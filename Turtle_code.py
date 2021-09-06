@@ -1,6 +1,6 @@
 #Import Turtle
 import turtle
-# 
+# Select the Background color
 turtle.bgcolor("Blue")
 
 turtle.speed (20)
