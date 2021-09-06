@@ -1,3 +1,4 @@
+#
 import turtle
 
 turtle.bgcolor("Blue")
