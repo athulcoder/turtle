@@ -1,4 +1,4 @@
-# Turtle_Geometery
+# Turtle Geometery
 First Program using Turtle module
 
 # Function
