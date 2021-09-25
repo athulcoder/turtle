@@ -6,6 +6,7 @@ import turtle
 # Select the Background color
 
 turtle.bgcolor("Blue")
+
 # Fix the Speed of Drawing
 turtle.speed (20)
 # Select the Color of Pen
