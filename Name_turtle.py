@@ -1,5 +1,5 @@
 import turtle
-t = turtle.Turtle
+t = turtle.Turtle()
 t.pencolor("white")
 t.pensize(2)
 t.lt(180)
