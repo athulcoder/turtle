@@ -18,4 +18,5 @@ turtle.pencolor ('Orange')
 
 for i in range (1000):
 	turtle.forward (i)
-	turtle.left (100)
+	
+turtle.left (100)
