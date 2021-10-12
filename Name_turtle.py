@@ -95,4 +95,5 @@ t.fd(390)
 
 turtle.done()
 # Just copy this a run it ...
-# if you try to run this after saving you may  get some Error 
+# if you try to run this after saving you may  get  Error
+# So I prefer you to Run without  Saving 
