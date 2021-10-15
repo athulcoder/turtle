@@ -106,6 +106,6 @@ t.lt(90)
 t.fd(390)
 
 turtle.done()
-# Just copy this a run it ...
+# Just copy this codes and run it ...
 # if you try to run this after saving you may  get  Error
 # So I prefer you to Run without  Saving 
