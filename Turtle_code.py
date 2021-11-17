@@ -2,6 +2,7 @@
 
 import turtle
 
+
 # Select the Background color
 
 turtle.bgcolor("Blue")
