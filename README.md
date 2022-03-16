@@ -1,7 +1,4 @@
 
-
-
-
 <h1 align = "center" > Turtle Geometery </h1> 
 First Program using Turtle module
 # Function
